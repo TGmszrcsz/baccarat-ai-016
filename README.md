@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：历史统计
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 015 篇 - 百家乐Ai预测分析工具：未知状态不能悄悄从总数中消失](https://github.com/TGmszrcsz/baccarat-ai-015) ｜ [下一篇：第 017 篇 - 百家乐Ai预测分析工具：利用增量检查发现计数重复与遗漏](https://github.com/TGmszrcsz/baccarat-ai-017)
+
+<!-- article-chain:end -->
+
 累计占比稳定，最近若干局占比却变化明显。本篇围绕“累计面板与滚动窗口为何不能直接对比”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从具体场景进入问题
